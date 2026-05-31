@@ -121,6 +121,5 @@ This portfolio represents my professional journey and showcases:
 ```text
 my-portfolio/
 ├── README.md
-├── src/
-├── public/
+├── portfolio-me.html
 └── assets/
