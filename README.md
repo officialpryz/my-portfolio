@@ -1,5 +1,11 @@
 # Praise Afolabi — Portfolio
 
+## Screenshot
+
+<p align="center">
+  <img src="./assets/portfolio-screenshot.png" alt="Portfolio Website Screenshot" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Portfolio-blue?style=for-the-badge" alt="Full Stack Developer Badge" />
   <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-green?style=for-the-badge" alt="Location Badge" />
